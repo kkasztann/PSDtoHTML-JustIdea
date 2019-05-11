@@ -590,6 +590,7 @@ p {
     }
 
     & .inputMessage {
+        resize: none;
         padding-left: 13px;
         color: $textColor2;
         grid-area: message;

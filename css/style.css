@@ -500,6 +500,7 @@ p {
 }
 
 .footer .inputMessage {
+  resize: none;
   padding-left: 13px;
   color: #565e66;
   grid-area: message;
