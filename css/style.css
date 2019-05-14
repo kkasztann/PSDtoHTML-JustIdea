@@ -146,7 +146,6 @@ p {
   z-index: 3;
   color: #FFF;
   position: absolute;
-  display: block;
   top: 50%;
   right: 50%;
   -webkit-transform: translate(50%, -50%);
